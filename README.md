@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BashirHub
+- 👋 Hi, I’m @Bashir Alhamo
 - 👀 I’m interested in Machine learning ,Deep learning, Computer vision, Python
 - 🌱 I’m currently learning ... AI and Machine learning
 - 💞️ I’m looking to collaborate on ... A Tetcher at unvercity
